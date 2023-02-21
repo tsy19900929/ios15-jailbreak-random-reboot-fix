@@ -2,4 +2,4 @@
 ▶️ 1. fix ios15 jailbreak random reboot    
 ▶️ 2. update trollstore to 1.5.1    
 
-## 📍 warning: uninstall jailbreak and new re jailbreak
+## 📍 warning: uninstall jailbreak and new re jailbreak，find /var/jb/Library/LaunchDaemons/com.tsy.t1
