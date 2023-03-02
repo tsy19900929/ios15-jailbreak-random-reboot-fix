@@ -7,17 +7,17 @@
 ##  
 <table>
   <tr>
-    <td>修改版本号</td>
-    <td>原xina版本号</td>
-    <td>深度清理时间</td>
-    <td>开启虚拟内存</td>
-    <td>修改ui</td>
-    <td>更换PL和RB</td>
+    <td width="250">修改版本号</td>
+    <td width="250">原xina版本号</td>
+    <td width="250">深度清理时间</td>
+    <td width="250">开启虚拟内存</td>
+    <td width="250">修改ui</td>
+    <td width="250">更换PL和RB</td>
   </tr>
   <tr>
     <td>1.1.6.9</td>
     <td>1.1.6.2</td>
-    <td>越狱开始12小时一次</td>
+    <td>越狱起12小时一次</td>
     <td>否</td>
     <td>否</td>
     <td>否</td>
