@@ -3,6 +3,8 @@
 #### ▶️ 修复xina越狱因为内存异常而导致的随机重启  
 
 #### ▶️ 必须卸载越狱，勾选重新安装越狱环境，越狱后有/var/jb/Library/LaunchDaemons/com.tsy.t1才成功    
+
+#### ▶️ 传一个别人的saily修改版，用于一键恢复插件  
   
 ##  
 <table>
